@@ -4,3 +4,4 @@ InProgress halfway, just adding of adapter and populating the view with image an
 At Moment Halted due to adapter and layout concept conflict. 
 Need to understand these concepts indetail.
 
+Layout Inflating instead of reloading adapter.
